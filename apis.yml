@@ -1,5 +1,6 @@
 aid: hipaa
 name: HIPAA
+kind: topic
 # x-type: concept -- this record is a LAW, not a company (roadmap#362). score.rb's
 # NON_PROVIDER_X_TYPES excludes concept from scoring: a statute cannot publish an API and
 # must not be ranked as though it did. CCPA scored 59.1 `strong`, #23 of 746 in compliance,
